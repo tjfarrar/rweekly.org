@@ -33,6 +33,8 @@ Release Date: 2019-01-20
 
 ###  New Packages
 
++ skedastic ([CRAN](https://cran.r-project.org/web/packages/skedastic/index.html); [Github](https://github.com/tjfarrar/skedastic)) - Heteroskedasticity Diagnostics for Linear Regression Models 
+
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
